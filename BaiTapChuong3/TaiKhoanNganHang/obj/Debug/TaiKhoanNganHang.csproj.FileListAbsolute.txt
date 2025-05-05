@@ -1,0 +1,19 @@
+D:\BTC3\BaiTapChuong3\TaiKhoanNganHang\bin\Debug\TaiKhoanNganHang.exe.config
+D:\BTC3\BaiTapChuong3\TaiKhoanNganHang\bin\Debug\TaiKhoanNganHang.exe
+D:\BTC3\BaiTapChuong3\TaiKhoanNganHang\bin\Debug\TaiKhoanNganHang.pdb
+D:\BTC3\BaiTapChuong3\TaiKhoanNganHang\obj\Debug\TaiKhoanNganHang.csprojResolveAssemblyReference.cache
+D:\BTC3\BaiTapChuong3\TaiKhoanNganHang\obj\Debug\TaiKhoanNganHang.exe
+D:\BTC3\BaiTapChuong3\TaiKhoanNganHang\obj\Debug\TaiKhoanNganHang.pdb
+D:\HKII 2024-2025\LapTrinh.Net\BaiTapChuong3\TaiKhoanNganHang\bin\Debug\TaiKhoanNganHang.exe.config
+D:\HKII 2024-2025\LapTrinh.Net\BaiTapChuong3\TaiKhoanNganHang\obj\Debug\TaiKhoanNganHang.exe
+D:\HKII 2024-2025\LapTrinh.Net\BaiTapChuong3\TaiKhoanNganHang\obj\Debug\TaiKhoanNganHang.pdb
+D:\HKII 2024-2025\LapTrinh.Net\BaiTapChuong3\TaiKhoanNganHang\bin\Debug\TaiKhoanNganHang.exe
+D:\HKII 2024-2025\LapTrinh.Net\BaiTapChuong3\TaiKhoanNganHang\bin\Debug\TaiKhoanNganHang.pdb
+D:\HKII 2024-2025\LapTrinh.Net\BaiTapChuong3\TaiKhoanNganHang\obj\Debug\TaiKhoanNganHang.csprojResolveAssemblyReference.cache
+C:\Users\Azure\Downloads\BaiTapChuong3\BaiTapChuong3\TaiKhoanNganHang\bin\Debug\TaiKhoanNganHang.exe.config
+C:\Users\Azure\Downloads\BaiTapChuong3\BaiTapChuong3\TaiKhoanNganHang\bin\Debug\TaiKhoanNganHang.exe
+C:\Users\Azure\Downloads\BaiTapChuong3\BaiTapChuong3\TaiKhoanNganHang\bin\Debug\TaiKhoanNganHang.pdb
+C:\Users\Azure\Downloads\BaiTapChuong3\BaiTapChuong3\TaiKhoanNganHang\obj\Debug\TaiKhoanNganHang.csproj.AssemblyReference.cache
+C:\Users\Azure\Downloads\BaiTapChuong3\BaiTapChuong3\TaiKhoanNganHang\obj\Debug\TaiKhoanNganHang.csproj.CoreCompileInputs.cache
+C:\Users\Azure\Downloads\BaiTapChuong3\BaiTapChuong3\TaiKhoanNganHang\obj\Debug\TaiKhoanNganHang.exe
+C:\Users\Azure\Downloads\BaiTapChuong3\BaiTapChuong3\TaiKhoanNganHang\obj\Debug\TaiKhoanNganHang.pdb
